@@ -1,0 +1,13 @@
+/Users/alfredoguerrieri/VisualStudio/Calculator/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.deps.json
+/Users/alfredoguerrieri/VisualStudio/Calculator/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.json
+/Users/alfredoguerrieri/VisualStudio/Calculator/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.dev.json
+/Users/alfredoguerrieri/VisualStudio/Calculator/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.dll
+/Users/alfredoguerrieri/VisualStudio/Calculator/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.pdb
+/Users/alfredoguerrieri/VisualStudio/Calculator/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.csproj.AssemblyReference.cache
+/Users/alfredoguerrieri/VisualStudio/Calculator/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfredoguerrieri/VisualStudio/Calculator/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfoInputs.cache
+/Users/alfredoguerrieri/VisualStudio/Calculator/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfo.cs
+/Users/alfredoguerrieri/VisualStudio/Calculator/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.csproj.CoreCompileInputs.cache
+/Users/alfredoguerrieri/VisualStudio/Calculator/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.dll
+/Users/alfredoguerrieri/VisualStudio/Calculator/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.pdb
+/Users/alfredoguerrieri/VisualStudio/Calculator/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.genruntimeconfig.cache
